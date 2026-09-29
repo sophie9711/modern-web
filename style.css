@@ -98,7 +98,7 @@ a { color: inherit; }
   margin-top: clamp(14px, 2vw, 22px);
 }
 .hero-greeting {
-  color: var(--muted);
+  color: #D8B4E2; /* 라일락 색상 (Lilac) */
   max-width: 32em;
   margin-top: clamp(20px, 3vw, 28px);
 }
